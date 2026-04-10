@@ -29,11 +29,7 @@ Según el **Programa de las Naciones Unidas para el Medio Ambiente (PNUMA)**, la
 * **💧 Hídrica y de los Suelos:** Desechos industriales arrojados por las plantas tecnológicas que comprometen directamente acuíferos, mares y capacidad agrícola territorial.
 * **📡 Tecnológica y Electrónica:** Derivada de la minería indiscriminada subyacente y del descarte final de dispositivos y placas base.
 
-<div align="center">
-  <img src="/home/1asir/.gemini/antigravity/brain/e0487066-96c8-4b76-adc1-1026df177a64/contaminacion_ambiental_1775477745339.png" width="85%" style="border-radius: 8px;" alt="Contaminación Ambiental">
-  <br/>
-  <i>Figura 1: Representación conceptual del impacto de las emisiones industriales tecnológicas en la calidad atmosférica y degradación del ecosistema.</i>
-</div>
+![contaminacion](./imagenes/contaminacion_ambiental_1775477745339.png)
 
 ---
 
@@ -49,11 +45,7 @@ Estos aparatos esconden materiales altamente tóxicos que, al ser expuestos en v
 * **🔴 Cadmio (Cd) y Berilio (Be):** Compuestos fuertemente carcinógenos.
 * **🔴 Retardantes de llama bromados (BFR):** Disruptores severos del sistema endocrino humano expuestos al calor o rotura.
 
-<div align="center">
-  <img src="/home/1asir/.gemini/antigravity/brain/e0487066-96c8-4b76-adc1-1026df177a64/residuos_informaticos_1775477761716.png" width="85%" style="border-radius: 8px;" alt="Residuos Informáticos">
-  <br/>
-  <i>Figura 2: Apilamiento descontrolado de hardware, placas base y componentes ofimáticos desechados incorrectamente.</i>
-</div>
+![residuos](./imagenes/residuos_informaticos_1775477761716.png)
 
 > *"La basura electrónica representa uno de los flujos de desechos de mayor crecimiento y peligrosidad intrínseca en el mundo moderno."* — **Organización Mundial de la Salud (OMS)**.
 
@@ -73,11 +65,7 @@ El paradigma fue conceptualizado en un marco socioeconómico por el ensayista y 
 
 Hoy en día, instituciones de ética tecnológica, como el entorno promovido por el CEO **Kyle Wiens** en **iFixit** junto a amplias comisiones europeas organizadas bajo el emblema **"Right to Repair"**, disputan agresivas batallas técnico-legales frente a empresas para devolver la circularidad y extender la operatividad del *hardware*.
 
-<div align="center">
-  <img src="/home/1asir/.gemini/antigravity/brain/e0487066-96c8-4b76-adc1-1026df177a64/obsolescencia_programada_1775477778575.png" width="85%" style="border-radius: 8px;" alt="Obsolescencia Programada">
-  <br/>
-  <i>Figura 3: Composición visual ilustrativa de la obsolescencia programada: el desmontaje prematuro de un smartphone dominado inexorablemente por la caducidad del "tiempo comercial".</i>
-</div>
+![obsolencia](./imagenes/obsolescencia_programada_1775477778575.png)
 
 ---
 
@@ -104,8 +92,4 @@ Para dotar al documento del máximo estándar y requerimientos de rigor profesio
 5. **Barroso, L. A., & Hölzle, U. (2009).** *The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines*. Literarura y documentación referencial sumamente crítica elaborada por los ingenieros pioneros para la comprensión e implementación técnica macro del *Green Computing* en arquitectura industrial.
 6. **Coalición Right to Repair Europe**. Agrupación de carácter social, ingenieril y legislativa apoyada e impulsada sistemáticamente a favor de los derechos democráticos de mantenimiento al consumidor exigiendo por vía de reglamentos la implantación de una tecnología altamente reparable, longeva, circular y libre. — [Iniciativa Right to Repair EU](https://repair.eu/).
 
-<div align="center">
-  <br>
-  <hr style="width: 50%"/>
-  <p><i>Documento final de Investigación y Análisis SI reevaluado a través de motor Markdown enriquecido con componentes estructurales HTML de centrado y redimensionamiento responsivo, para la visualización elegante y moderna dentro de entornos y auditores profesionales en la nube (ej. GitHub, GitLab u otras previsualizaciones web ricas de IDE).</i></p>
-</div>
+![Sostenible](./imagenes/banner_sostenibilidad_1775477729616.png)
