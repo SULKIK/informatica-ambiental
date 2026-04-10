@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="/home/1asir/.gemini/antigravity/brain/e0487066-96c8-4b76-adc1-1026df177a64/banner_sostenibilidad_1775477729616.png" style="border-radius: 12px;" width="100%" alt="Banner Sostenibilidad">
-  
   <h1>🌿 Impacto Ambiental y Tecnología: Hacia una Informática Sostenible</h1>
   <p><b>Documento de Investigación y Análisis</b> | Área: <i>Sistemas Informáticos (SI)</i></p>
 </div>
